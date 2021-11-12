@@ -1,0 +1,13 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(211, 211, 211);
+}
+
+.nav .item {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.item {
+    color: brown;
+}
